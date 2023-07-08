@@ -1,1 +1,3 @@
-print("I want to talk to mr fring")
+print("I want to see your boss")
+print("You mean mrFring")
+print("Yes mrFring")
