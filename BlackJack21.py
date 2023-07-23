@@ -72,7 +72,7 @@ def play_game():
 
 while input("Do you want to play a game of Blackjack? Type 'yes' or 'no': ") == "yes":
   play_game()
-=======
+  
 import random
 
 def deal_card():
@@ -146,4 +146,3 @@ def play_game():
 
 while input("Do you want to play a game of Blackjack? Type 'yes' or 'no': ") == "yes":
   play_game()
->>>>>>> 54ae1b562a3eb7830edc7e3de701e3fa16df4c8a
